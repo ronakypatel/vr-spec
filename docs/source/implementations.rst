@@ -51,7 +51,7 @@ The API endpoints that support data retrieval in this two key standards are summ
    :align: left
 
    **RefGet**,,,
-   [GET] /sequence/service-info, \-, Refget v1.0.0, `/sequence/service-info <https://reg.clinicalgenome.org/sequence/service-info>`
+   [GET] /sequence/service-info, \-, Refget v1.0.0, `/sequence/service-info <https://reg.clinicalgenome.org/sequence/service-info>`__
    [GET] /sequence/{id}, id => TRUNC512 digest for reference sequence, Refget v1.0.0, `/sequence/vYfm5TA_F-_BtIGjfzjGOj8b6IK5hCTx <https://reg.clinicalgenome.org/sequence/vYfm5TA_F-_BtIGjfzjGOj8b6IK5hCTx>`__
    [GET] /sequence/{id}/metadata, id => TRUNC512 digest for reference sequence, Refget v1.0.0, `/sequence/vYfm5TA_F-_BtIGjfzjGOj8b6IK5hCTx/metadata <https://reg.clinicalgenome.org/sequence/vYfm5TA_F-_BtIGjfzjGOj8b6IK5hCTx/metadata>`__
    **VR**,,,
